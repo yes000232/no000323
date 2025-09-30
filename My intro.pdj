@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <title>劉硯恒的自我介紹</title>
+  <style>
+    body {
+      font-family: "Microsoft JhengHei", sans-serif;
+      background-color: #f5f6fa;
+      color: #333;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+    h2 {
+      color: #34495e;
+      border-left: 5px solid #3498db;
+      padding-left: 10px;
+      margin-top: 30px;
+    }
+    ul {
+      list-style-type: square;
+      padding-left: 20px;
+    }
+    p {
+      font-size: 16px;
+    }
+    .contact li {
+      margin: 5px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>劉硯恒的自我介紹</h1>
+    <p>
+      大家好，我叫劉硯恒。<br>
+      我平常喜歡彈樂器，高中時期曾擔任熱音社的總務長，主要負責主吉他與主唱。<br>
+      在音樂方面，我也曾參加桃花源盃鋼琴比賽，並多次獲得第一名；同時也挑戰過英文演講比賽，累積了不少表演與表達經驗。<br>
+      生活中，我熱愛重訓和戶外活動，目前在世界健身房上班，持續鍛鍊自我、挑戰極限。
+    </p>
+
+    <h2>學歷</h2>
+    <ul>
+      <li>2022 - 至今：中原大學智慧大數據運算學士班</li>
+      <li>2019 - 2025：振聲高中 自然組</li>
+    </ul>
+
+    <h2>專長與經歷</h2>
+    <ul>
+      <li>樂器演奏（鋼琴、吉他、主唱）</li>
+      <li>熱音社總務長</li>
+      <li>桃花源盃鋼琴比賽第一名</li>
+      <li>英文演講比賽參賽經驗</li>
+    </ul>
+
+    <h2>興趣</h2>
+    <ul>
+      <li>彈奏樂器與音樂創作</li>
+      <li>重訓與健身</li>
+      <li>戶外活動</li>
+    </ul>
+
+    <h2>工作經驗</h2>
+    <ul>
+      <li>世界健身房 — 現職</li>
+    </ul>
+
+    <h2>聯絡方式</h2>
+    <ul class="contact">
+      <li>Email：harrisball1120@gmail.com</li>
+      <li>電話：0975-858-339</li>
+    </ul>
+  </div>
+</body>
+</html>
